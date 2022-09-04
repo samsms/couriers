@@ -1,0 +1,309 @@
+[06-May-2022 03:37:24 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/consignment_list.php on line 45
+[06-May-2022 03:37:33 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/consignment_list.php on line 45
+[06-May-2022 04:18:20 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/consignment_list.php on line 47
+[06-May-2022 15:15:09 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 372
+[06-May-2022 15:16:24 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 372
+[06-May-2022 15:17:43 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 372
+[06-May-2022 15:22:38 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 372
+[06-May-2022 08:33:37 Europe/London] PHP Fatal error:  Call to undefined function getApprovedParcel() in /home/techsava/public_html/courier/view_parcel.php on line 4
+[06-May-2022 08:33:51 Europe/London] PHP Fatal error:  Call to undefined function getApprovedParcel() in /home/techsava/public_html/courier/view_parcel.php on line 4
+[06-May-2022 08:34:45 Europe/London] PHP Fatal error:  Call to a member function query() on null in /home/techsava/public_html/courier/functions.php on line 17
+[06-May-2022 08:34:47 Europe/London] PHP Fatal error:  Call to a member function query() on null in /home/techsava/public_html/courier/functions.php on line 17
+[06-May-2022 08:35:38 Europe/London] PHP Fatal error:  Call to a member function query() on null in /home/techsava/public_html/courier/functions.php on line 17
+[06-May-2022 08:35:40 Europe/London] PHP Fatal error:  Call to a member function query() on null in /home/techsava/public_html/courier/functions.php on line 17
+[06-May-2022 08:40:14 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/techsava/public_html/courier/view_parcel.php on line 159
+[06-May-2022 08:40:39 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/techsava/public_html/courier/view_parcel.php on line 159
+[08-May-2022 15:31:24 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 388
+[08-May-2022 15:31:27 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 388
+[08-May-2022 15:33:01 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 388
+[08-May-2022 15:33:04 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 388
+[08-May-2022 17:08:22 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:08:30 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:09:19 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:09:23 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:10:00 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:16:05 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:16:44 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:18:38 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 17:19:45 Asia/Manila] PHP Fatal error:  Cannot redeclare Action::get_report() in /home/techsava/public_html/courier/admin_class.php on line 456
+[08-May-2022 21:49:51 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 419
+[09-May-2022 20:39:32 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[09-May-2022 19:08:10 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_parcel.php on line 3
+[09-May-2022 17:19:16 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:19:18 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:19:20 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:20:07 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:20:12 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:20:13 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:20:17 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:20:19 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:22:34 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:22:40 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[09-May-2022 17:23:51 Europe/London] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/functions.php on line 2
+[10-May-2022 22:02:37 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 525
+[11-May-2022 13:28:35 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[11-May-2022 13:41:32 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[11-May-2022 13:41:45 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[11-May-2022 13:42:02 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[13-May-2022 10:40:11 Europe/London] PHP Notice:  Undefined index: file in /home/techsava/public_html/courier/uploadcons.php on line 6
+[13-May-2022 10:40:11 Europe/London] PHP Warning:  fopen(): Filename cannot be empty in /home/techsava/public_html/courier/uploadcons.php on line 12
+[13-May-2022 10:41:29 Europe/London] PHP Notice:  Undefined index: file in /home/techsava/public_html/courier/uploadcons.php on line 6
+[13-May-2022 10:41:29 Europe/London] PHP Warning:  fopen(): Filename cannot be empty in /home/techsava/public_html/courier/uploadcons.php on line 12
+[13-May-2022 10:41:44 Europe/London] PHP Notice:  Undefined index: file in /home/techsava/public_html/courier/uploadcons.php on line 6
+[13-May-2022 10:41:44 Europe/London] PHP Warning:  fopen(): Filename cannot be empty in /home/techsava/public_html/courier/uploadcons.php on line 12
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/techsava/public_html/courier/uploadcons.php on line 23
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/techsava/public_html/courier/uploadcons.php on line 34
+[13-May-2022 11:04:04 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techsava/public_html/courier/uploadcons.php:23) in /home/techsava/public_html/courier/uploadcons.php on line 62
+[13-May-2022 11:11:08 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:11:08 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:11:08 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:11:08 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:11:08 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:11:08 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:12:20 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:12:20 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:12:20 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:12:20 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:12:20 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:12:20 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:14:06 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:14:06 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:14:06 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:14:06 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:14:06 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:14:06 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:15:42 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:15:42 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:15:42 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:15:42 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:15:42 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:15:42 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:15:50 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:15:50 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 25
+[13-May-2022 11:15:50 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:15:50 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 28
+[13-May-2022 11:15:50 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:15:50 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 32
+[13-May-2022 11:18:31 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:18:31 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:18:31 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:18:31 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:18:31 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:18:31 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:19:17 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:19:17 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:19:17 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:19:17 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:19:17 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:19:17 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:20:04 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:20:04 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:20:04 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:20:04 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:20:04 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:20:04 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:21:37 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:21:37 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:21:37 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:21:37 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:21:37 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:21:37 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:21:58 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:21:58 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:21:58 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:21:58 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:21:58 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:21:58 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:23:07 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:23:07 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:23:07 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:23:07 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:23:07 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:23:07 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:24:59 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:24:59 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:24:59 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:24:59 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:24:59 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:24:59 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:30:39 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:30:39 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:30:39 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:30:39 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:30:39 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:30:39 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:54:42 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:54:42 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 11:54:42 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:54:42 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 11:54:42 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 11:54:42 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:28:56 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:28:56 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:28:56 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:28:56 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:28:56 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:28:56 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:29:17 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:29:17 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:29:17 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:29:17 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:29:17 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:29:17 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:29:19 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:29:19 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:29:19 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:29:19 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:29:19 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:29:19 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:47:34 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:47:34 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 26
+[13-May-2022 12:47:34 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:47:34 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 29
+[13-May-2022 12:47:34 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:47:34 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 33
+[13-May-2022 12:56:28 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[13-May-2022 12:57:27 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[14-May-2022 02:30:11 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 496
+[14-May-2022 02:33:55 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 494
+[14-May-2022 02:35:51 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:43:51 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:45:24 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:45:38 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:46:07 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:46:14 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:53:14 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[14-May-2022 02:55:59 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 429
+[13-May-2022 21:14:57 Europe/London] PHP Notice:  Undefined variable: chk in /home/techsava/public_html/courier/uploadcons.php on line 38
+[13-May-2022 21:14:57 Europe/London] PHP Notice:  Array to string conversion in /home/techsava/public_html/courier/uploadcons.php on line 42
+[13-May-2022 21:15:25 Europe/London] PHP Notice:  Array to string conversion in /home/techsava/public_html/courier/uploadcons.php on line 42
+[13-May-2022 21:17:03 Europe/London] PHP Notice:  Trying to get property of non-object in /home/techsava/public_html/courier/uploadcons.php on line 42
+[13-May-2022 22:27:16 Europe/London] PHP Notice:  Undefined index: branch_name in /home/techsava/public_html/courier/uploadcons.php on line 52
+[13-May-2022 22:27:16 Europe/London] PHP Notice:  Undefined index: branch_name in /home/techsava/public_html/courier/uploadcons.php on line 53
+[13-May-2022 22:27:16 Europe/London] PHP Notice:  Undefined index: county in /home/techsava/public_html/courier/uploadcons.php on line 54
+[13-May-2022 22:27:16 Europe/London] PHP Notice:  Undefined index: branch_name in /home/techsava/public_html/courier/uploadcons.php on line 52
+[13-May-2022 22:27:16 Europe/London] PHP Notice:  Undefined index: branch_name in /home/techsava/public_html/courier/uploadcons.php on line 53
+[13-May-2022 22:27:16 Europe/London] PHP Notice:  Undefined index: county in /home/techsava/public_html/courier/uploadcons.php on line 54
+[13-May-2022 22:41:00 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[15-May-2022 00:18:20 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:18:31 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:18:43 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:18:51 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[14-May-2022 17:19:16 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[15-May-2022 00:20:01 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:20:06 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:20:18 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:20:22 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:20:27 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:20:32 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:20:54 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[15-May-2022 00:21:04 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 426
+[14-May-2022 17:22:25 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: reference_number in /home/techsava/public_html/courier/uploadcons.php on line 34
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: lpo_date in /home/techsava/public_html/courier/uploadcons.php on line 37
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: reference_number in /home/techsava/public_html/courier/uploadcons.php on line 38
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: customer_id in /home/techsava/public_html/courier/uploadcons.php on line 39
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: purchase_order in /home/techsava/public_html/courier/uploadcons.php on line 42
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: branch_id in /home/techsava/public_html/courier/uploadcons.php on line 43
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: w_unit in /home/techsava/public_html/courier/uploadcons.php on line 45
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: warehouse in /home/techsava/public_html/courier/uploadcons.php on line 46
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: reference_number in /home/techsava/public_html/courier/uploadcons.php on line 34
+[14-May-2022 17:22:51 Europe/London] PHP Notice:  Undefined index: reference_number in /home/techsava/public_html/courier/uploadcons.php on line 34
+[14-May-2022 17:23:20 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[16-May-2022 10:34:38 Africa/Nairobi] PHP Fatal error:  Call to undefined function length() in /home/techsava/public_html/courier/new_route.php on line 37
+[16-May-2022 10:35:53 Africa/Nairobi] PHP Fatal error:  Call to undefined function length() in /home/techsava/public_html/courier/new_route.php on line 37
+[16-May-2022 10:36:04 Africa/Nairobi] PHP Fatal error:  Call to undefined function length() in /home/techsava/public_html/courier/new_route.php on line 37
+[16-May-2022 10:36:41 Africa/Nairobi] PHP Fatal error:  Call to undefined function length() in /home/techsava/public_html/courier/new_route.php on line 38
+[16-May-2022 10:36:50 Africa/Nairobi] PHP Fatal error:  Call to undefined function length() in /home/techsava/public_html/courier/new_route.php on line 38
+[16-May-2022 12:52:06 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:52:22 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:52:25 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:53:04 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:53:34 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:56:05 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:56:14 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[16-May-2022 12:57:51 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/techsava/public_html/courier/edit_customer.php on line 3
+[17-May-2022 14:38:11 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:38:15 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:38:28 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:38:35 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:38:45 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:38:58 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:39:01 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:39:05 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:40:41 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:42:42 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[17-May-2022 14:44:03 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/admin_class.php on line 572
+[24-May-2022 09:22:22 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/techsava/public_html/courier/functions.php on line 18
+[26-May-2022 10:16:14 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 22
+[26-May-2022 10:16:14 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 22
+[26-May-2022 10:16:14 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 24
+[26-May-2022 10:16:14 Europe/London] PHP Warning:  fgetcsv() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 24
+[26-May-2022 10:16:14 Europe/London] PHP Notice:  Undefined variable: fp in /home/techsava/public_html/courier/uploadcons.php on line 27
+[26-May-2022 10:16:14 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/techsava/public_html/courier/uploadcons.php on line 27
