@@ -1,4 +1,5 @@
 git add .
-git commit -m "auto push"
+timestamp=$( date +%T )
+git commit -m "auto push {$timestamp}"
 git push origin master
 
